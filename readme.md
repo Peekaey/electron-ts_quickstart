@@ -1,5 +1,5 @@
 ## Quickstart Typescript/Electron Repo
-Repository with Electron and Typescript preinstalled and configured.  
+Repository with Electron and Typescript preconfigured.
 
 1. Develop project code in ./src and output build to ./build with `npx tsc`
 2. Run project with `yarn start`
