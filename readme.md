@@ -8,7 +8,7 @@ Repository with Electron and Typescript preconfigured, mosty to serve as a refer
 
 #### Initialisation/Creation of the project
 `yarn init`  
-`yard add --dev electron`  
+`yarn add --dev electron`  
 `npm i typescript --save-dev` (adjust to yarn)  
 `npx tsc --init --rootDir ./src --outDir ./build`
 
